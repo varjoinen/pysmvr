@@ -1,4 +1,5 @@
 # pysmvr, semver util for Python
+[![Build Status](https://travis-ci.org/varjoinen/pysmvr.svg?branch=master)](https://travis-ci.org/varjoinen/pysmvr)
 
 Provides commandline tool and functions for [semantic versions](https://semver.org/):
 
