@@ -1,0 +1,4 @@
+[run]
+omit    = test/*
+          pysmvr/__*__.py
+          setup.py
